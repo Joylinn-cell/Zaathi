@@ -1,0 +1,7 @@
+{
+  "name": "ZAATHI",
+  "description": "A multilingual caregiver companion app that helps manage patients, medicine schedules, and stock alerts with built-in AI voice guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
